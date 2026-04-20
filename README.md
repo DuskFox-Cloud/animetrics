@@ -68,13 +68,3 @@ Before analysis, the raw dataset was processed to ensure privacy and usability:
 ## 📎 Note
 
 This is a hobby project combining my interest in anime and data analysis. The dataset is anonymized and used only for personal learning purposes.
-
-<p align="center">
-  <img src="images/ratings_distribution.png" width="48%" />
-  <img src="images/genre_popularity.png" width="48%" />
-</p>
-
-<p align="center">
-  <img src="images/watch_status.png" width="48%" />
-  <img src="images/episodes_vs_rating.png" width="48%" />
-</p>
