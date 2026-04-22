@@ -1,11 +1,3 @@
-This is a fantastic addition\! Including your data cleaning steps, objectives, and project status makes the repository look like a complete, professional data science portfolio piece.
-
-I have seamlessly merged your new information with the dashboard details we built earlier. I also updated your "Project Status" to reflect that the Python dashboard is now completed\! 🎉
-
-Here is the ultimate, fully-loaded `README.md` for your project:
-
------
-
 # 🎬 MyAnimeList Data Analysis & Dashboard 🌌
 
 ## 📌 Project Overview
